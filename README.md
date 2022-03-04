@@ -9,7 +9,9 @@ Next, I want to work in a collaborative team where mentoring new members of the 
 🔭 I’m currently working on a cybersecurity data science project; analysing network traffic, can I develop an ML algorithm to identify cyber attacks. I want to use this project as a spring board to learn more about cybersecurity.
 
 🔗 Connect with me 🔗
+
 [LinkedIn](https://www.linkedin.com/in/patrickpagni/)
+
 [Medium](https://medium.com/@patrick.pagni1)
 
 <!--

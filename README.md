@@ -6,7 +6,11 @@ I love being faced with a challenge and working to find a solution. I graduated 
 
 Next, I want to work in a collaborative team where mentoring new members of the team is a core part of the culture. I would also like to have the opportunity to teach and mentor as well as learn.
 
-🔭 I’m currently working on a cybersecurity data science project; analysing netwrok traffic, can I develop an ML algorithm to identify cyber attacks. I want to use this project as a spring board to learn more about cybersecurity.
+🔭 I’m currently working on a cybersecurity data science project; analysing network traffic, can I develop an ML algorithm to identify cyber attacks. I want to use this project as a spring board to learn more about cybersecurity.
+
+🔗 Connect with me 🔗
+[LinkedIn](https://www.linkedin.com/in/patrickpagni/)
+[Medium](https://medium.com/@patrick.pagni1)
 
 <!--
 **patrick-pagni/patrick-pagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
